@@ -3,7 +3,7 @@ This is a Human-computer interaction project I helped develop as part of a team 
 
 The project was developed in 5 stages, each of which has a corresponding branch in this repository
 
-This project will be modified over time to make it adapted and personalized for my Portfolio.
+This project may be modified over time to make it adapted and personalized for my Portfolio.
 
 * Final Demo Video: https://drive.google.com/file/d/1nVz4qTwq_TJ1c9AUcyvaxD8Fc-lw_G48/view?usp=sharing
 
